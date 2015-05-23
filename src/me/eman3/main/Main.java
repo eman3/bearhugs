@@ -1,4 +1,4 @@
-package me.eman.main;
+package me.eman3.main;
 
 public class Main {
 	
